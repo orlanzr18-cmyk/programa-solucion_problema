@@ -1,0 +1,6 @@
+{
+  "name": "Devuélvemelo",
+  "description": "Lleva el control de todo lo que prestas y lo que te prestan con fotos, contactos, recordatorios amables para WhatsApp y reputación de devolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
